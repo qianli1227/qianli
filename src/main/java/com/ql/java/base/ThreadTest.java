@@ -17,11 +17,6 @@ package com.ql.java.base;
  *
  */
 
-//方式二：
-
-/**
- * 什么
- */
 public class ThreadTest {
 
     public static void main(String[] args) {

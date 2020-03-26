@@ -1,5 +1,5 @@
 package com.ql.java.base;
-
+//方式一：继承thread
 //6:yield():释放当前cpu的执行权
 //7:join():在线程A中调用线程B的join方法，那么线程A进入阻塞状态，直到线程B完全执行完之后，线程A才结束阻塞状态
 //8:stop():已过时，当执行此方法时候，强制结束当前线程
@@ -15,6 +15,12 @@ package com.ql.java.base;
  * setPriority
  *
  *
+ */
+
+//方式二：
+
+/**
+ * 什么
  */
 public class ThreadTest {
 

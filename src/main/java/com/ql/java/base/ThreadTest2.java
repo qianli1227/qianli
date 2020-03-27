@@ -8,6 +8,8 @@ package com.ql.java.base;
  * 4：将此对象作为参数 传递到Thread类的构造器中 创建 Thread类的对象
  * 5；通过Thread 的对象调用start
  */
+
+
 class Method2 implements Runnable {
 
     @Override
